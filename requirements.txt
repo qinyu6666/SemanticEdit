@@ -1,0 +1,6 @@
+lmdb==0.91
+tensorboard
+albumentations
+imgaug==0.2.6
+
+imageio-ffmpeg==0.4.8
